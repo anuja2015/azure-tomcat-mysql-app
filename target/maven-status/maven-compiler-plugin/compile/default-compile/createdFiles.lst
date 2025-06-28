@@ -1,0 +1,5 @@
+com\microsoft\azure\appservice\examples\tomcatmysql\CreateServlet.class
+com\microsoft\azure\appservice\examples\tomcatmysql\DeleteServlet.class
+com\microsoft\azure\appservice\examples\tomcatmysql\ViewServlet.class
+com\microsoft\azure\appservice\examples\tomcatmysql\ContextListener.class
+com\microsoft\azure\appservice\examples\tomcatmysql\models\Task.class
